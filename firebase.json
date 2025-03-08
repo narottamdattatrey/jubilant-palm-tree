@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/jubilant-palm-tree",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
