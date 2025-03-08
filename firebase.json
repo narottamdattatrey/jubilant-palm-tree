@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "dist/jubilant-palm-tree/browser",
+    "site": "preview-angular",
     "ignore": [
       "firebase.json",
       "**/.*",
